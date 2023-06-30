@@ -1,7 +1,7 @@
 ### Hi I'm Tasaddaq Hussain! 👋
 
 - 🔭 I’m currently working on Flutter.
-- 🌱 I’m currently learning Web3 Technologies.
+- 🌱 I’m currently learning AI Technologies.
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with Velocityx Documentation.
 - 💬 Ask me about Flutter or any tech releted stuff.
