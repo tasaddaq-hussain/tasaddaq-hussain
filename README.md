@@ -1,6 +1,6 @@
 ### Hi I'm Tasaddaq Hussain! 👋
 
-- 🔭 I’m currently working on Flutter.
+- 🔭 I’m currently a student of MS Artificial Intelligence and working on Flutter.
 - 🌱 I’m currently learning AI Technologies.
 - 👯 I want to collaborate on Flutter, Dart, and Ai.
 - 🤔 I’m looking for help with Velocityx Documentation.
