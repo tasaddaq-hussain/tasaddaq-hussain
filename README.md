@@ -2,12 +2,12 @@
 
 - 🔭 I’m currently working on Flutter.
 - 🌱 I’m currently learning AI Technologies.
-- 👯 I’m looking to collaborate on Youtube.
+- 👯 I want to collaborate on Flutter, Dart, and Ai.
 - 🤔 I’m looking for help with Velocityx Documentation.
-- 💬 Ask me about Flutter or any tech releted stuff.
+- 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: -tasaddaq588@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: i spend almost 6 to 8 hours listening qawwalis.
+- ⚡ Fun fact: Turning caffeine into code.
 
 
 
